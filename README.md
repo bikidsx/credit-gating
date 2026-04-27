@@ -43,7 +43,7 @@ The skill enforces opinionated rules backed by research:
 ### Install the skill
 
 ```bash
-npx skills add https://github.com/bkidsx/credit-gating
+npx skills add https://github.com/bikidsx/credit-gating
 ```
 
 ---
